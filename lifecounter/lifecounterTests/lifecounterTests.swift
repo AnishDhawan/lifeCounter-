@@ -2,8 +2,8 @@
 //  lifecounterTests.swift
 //  lifecounterTests
 //
-//  Created by Gabe Bizar on 1/29/19.
-//  Copyright © 2019 Gabe Bizar. All rights reserved.
+//  Created by Anish Dhawan on 4/22/20.
+//  Copyright © 2020 Anish Dhawan. All rights reserved.
 //
 
 import XCTest

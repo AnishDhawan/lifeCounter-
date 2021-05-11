@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  lifecounter
 //
-//  Created by Anish Dhawan on 4/22/20.
-//  Copyright © 2020 Anish Dhawan. All rights reserved.
+//  Created by Anish Dhawan on 05/5/120.
+//  Copyright © 2020 Anish Dhawan All rights reserved.
 //
 
 import UIKit
